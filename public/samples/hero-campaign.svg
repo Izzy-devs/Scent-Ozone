@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Illustrated perfume bottles on an emerald stage">
+  <defs>
+    <radialGradient id="hbg" cx="62%" cy="42%" r="70%"><stop offset="0" stop-color="#0f6b58"/><stop offset=".55" stop-color="#063b32"/><stop offset="1" stop-color="#04201b"/></radialGradient>
+    <radialGradient id="beam" cx="50%" cy="0%" r="80%"><stop offset="0" stop-color="#e8d8b7" stop-opacity=".45"/><stop offset="1" stop-color="#e8d8b7" stop-opacity="0"/></radialGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c6a15b" stop-opacity=".25"/><stop offset="1" stop-color="#000" stop-opacity=".6"/></linearGradient>
+  </defs>
+  <rect width="900" height="700" fill="url(#hbg)"/>
+  <polygon points="470,0 620,0 760,620 330,620" fill="url(#beam)" opacity=".5"/>
+  <rect y="560" width="900" height="140" fill="url(#floor)"/>
+  <svg x="40" y="170" width="330" height="412.5" viewBox="0 0 400 500" overflow="visible">
+  <defs>
+    <radialGradient id="bg-lattafa-khamrah" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#124a3e"/><stop offset="1" stop-color="#06241f"/></radialGradient>
+    <linearGradient id="cap-lattafa-khamrah" x1="0" x2="1"><stop offset="0" stop-color="#7d5f26"/><stop offset=".35" stop-color="#f3dfa6"/><stop offset=".6" stop-color="#c6a15b"/><stop offset="1" stop-color="#7d5f26"/></linearGradient>
+    <linearGradient id="glass-lattafa-khamrah" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".30"/><stop offset=".5" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity=".22"/></linearGradient>
+    <linearGradient id="liq-lattafa-khamrah" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d79a3a"/><stop offset="1" stop-color="#7a3f10"/></linearGradient>
+    <linearGradient id="sheen-lattafa-khamrah" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset=".45" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".22"/></linearGradient>
+    <linearGradient id="fade-lattafa-khamrah" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset=".6" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <mask id="fm-lattafa-khamrah"><rect x="0" y="400" width="400" height="100" fill="url(#fade-lattafa-khamrah)"/></mask>
+    <radialGradient id="pool-lattafa-khamrah" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#e8d8b7" stop-opacity=".55"/><stop offset="1" stop-color="#e8d8b7" stop-opacity="0"/></radialGradient>
+    <clipPath id="in-lattafa-khamrah"><path d="M160 168 Q160 154 174 154 H226 Q240 154 240 168 V386 Q240 400 226 400 H174 Q160 400 160 386 Z"/></clipPath>
+    <filter id="soft-lattafa-khamrah"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+  
+  <circle cx="31" cy="23" r="2" fill="#e8d8b7" opacity="0.05"/><circle cx="128" cy="84" r="9" fill="#e8d8b7" opacity="0.1"/><circle cx="225" cy="145" r="7" fill="#e8d8b7" opacity="0.15000000000000002"/><circle cx="322" cy="206" r="5" fill="#e8d8b7" opacity="0.2"/><circle cx="19" cy="267" r="3" fill="#e8d8b7" opacity="0.05"/><circle cx="116" cy="328" r="10" fill="#e8d8b7" opacity="0.1"/><circle cx="213" cy="49" r="8" fill="#e8d8b7" opacity="0.15000000000000002"/><circle cx="310" cy="110" r="6" fill="#e8d8b7" opacity="0.2"/><circle cx="7" cy="171" r="4" fill="#e8d8b7" opacity="0.05"/><circle cx="104" cy="232" r="2" fill="#e8d8b7" opacity="0.1"/><circle cx="201" cy="293" r="9" fill="#e8d8b7" opacity="0.15000000000000002"/><circle cx="298" cy="14" r="7" fill="#e8d8b7" opacity="0.2"/><circle cx="395" cy="75" r="5" fill="#e8d8b7" opacity="0.05"/><circle cx="92" cy="136" r="3" fill="#e8d8b7" opacity="0.1"/>
+  <ellipse cx="200" cy="268" rx="170" ry="190" fill="url(#pool-lattafa-khamrah)"/>
+  
+  <ellipse cx="200" cy="404" rx="100" ry="10" fill="#000" opacity=".5" filter="url(#soft-lattafa-khamrah)"/>
+  <g mask="url(#fm-lattafa-khamrah)"><use href="#b-lattafa-khamrah" transform="translate(0 800) scale(1 -1)"/></g>
+  
+    <g id="b-lattafa-khamrah">
+      <rect x="186" y="134" width="28" height="26" fill="url(#cap-lattafa-khamrah)" opacity=".85"/>
+      <rect x="176" y="70" width="48" height="66" rx="6" fill="url(#cap-lattafa-khamrah)"/>
+      <rect x="182" y="76" width="5" height="54" rx="2.5" fill="#fff" opacity=".35"/>
+      <path d="M160 168 Q160 154 174 154 H226 Q240 154 240 168 V386 Q240 400 226 400 H174 Q160 400 160 386 Z" fill="url(#glass-lattafa-khamrah)"/>
+      <g clip-path="url(#in-lattafa-khamrah)">
+        <rect x="100" y="208.12" width="200" height="195.88" fill="url(#liq-lattafa-khamrah)"/>
+        <ellipse cx="200" cy="208.12" rx="90" ry="5" fill="#d79a3a" opacity=".9"/>
+        <rect x="100" y="378" width="200" height="30" fill="#ffffff" opacity=".16"/>
+      </g>
+      <path d="M160 168 Q160 154 174 154 H226 Q240 154 240 168 V386 Q240 400 226 400 H174 Q160 400 160 386 Z" fill="url(#sheen-lattafa-khamrah)" />
+      <path d="M160 168 Q160 154 174 154 H226 Q240 154 240 168 V386 Q240 400 226 400 H174 Q160 400 160 386 Z" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.6"/>
+      <rect x="166" y="247" width="68" height="60" fill="none" stroke="#f3dfa6" stroke-width="1.4" opacity=".9"/>
+      <g transform="translate(200 277)" fill="none" stroke="#f3dfa6" stroke-width="1.3" opacity=".95">
+        <rect x="-11" y="-11" width="22" height="22"/><rect x="-11" y="-11" width="22" height="22" transform="rotate(45)"/>
+      </g>
+      <rect x="156" y="162" width="6" height="236" rx="3" fill="#fff" opacity=".38"/>
+      <rect x="236" y="184" width="3" height="176" rx="1.5" fill="#fff" opacity=".2"/>
+    </g>
+</svg>
+  <svg x="540" y="190" width="320" height="400" viewBox="0 0 400 500" overflow="visible">
+  <defs>
+    <radialGradient id="bg-lattafa-najdia" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#0b4a3d"/><stop offset="1" stop-color="#041f1a"/></radialGradient>
+    <linearGradient id="cap-lattafa-najdia" x1="0" x2="1"><stop offset="0" stop-color="#7d5f26"/><stop offset=".35" stop-color="#f3dfa6"/><stop offset=".6" stop-color="#c6a15b"/><stop offset="1" stop-color="#7d5f26"/></linearGradient>
+    <linearGradient id="glass-lattafa-najdia" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".30"/><stop offset=".5" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity=".22"/></linearGradient>
+    <linearGradient id="liq-lattafa-najdia" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e6c48a"/><stop offset="1" stop-color="#a8742c"/></linearGradient>
+    <linearGradient id="sheen-lattafa-najdia" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset=".45" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".22"/></linearGradient>
+    <linearGradient id="fade-lattafa-najdia" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset=".6" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <mask id="fm-lattafa-najdia"><rect x="0" y="400" width="400" height="100" fill="url(#fade-lattafa-najdia)"/></mask>
+    <radialGradient id="pool-lattafa-najdia" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#c6a15b" stop-opacity=".55"/><stop offset="1" stop-color="#c6a15b" stop-opacity="0"/></radialGradient>
+    <clipPath id="in-lattafa-najdia"><path d="M142 400 V250 C142 206 170 186 200 186 C230 186 258 206 258 250 V400 Q258 400 242 400 H158 Q142 400 142 400 Z"/></clipPath>
+    <filter id="soft-lattafa-najdia"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+  
+  <circle cx="31" cy="23" r="2" fill="#e8d8b7" opacity="0.05"/><circle cx="128" cy="84" r="9" fill="#e8d8b7" opacity="0.1"/><circle cx="225" cy="145" r="7" fill="#e8d8b7" opacity="0.15000000000000002"/><circle cx="322" cy="206" r="5" fill="#e8d8b7" opacity="0.2"/><circle cx="19" cy="267" r="3" fill="#e8d8b7" opacity="0.05"/><circle cx="116" cy="328" r="10" fill="#e8d8b7" opacity="0.1"/><circle cx="213" cy="49" r="8" fill="#e8d8b7" opacity="0.15000000000000002"/><circle cx="310" cy="110" r="6" fill="#e8d8b7" opacity="0.2"/><circle cx="7" cy="171" r="4" fill="#e8d8b7" opacity="0.05"/><circle cx="104" cy="232" r="2" fill="#e8d8b7" opacity="0.1"/><circle cx="201" cy="293" r="9" fill="#e8d8b7" opacity="0.15000000000000002"/><circle cx="298" cy="14" r="7" fill="#e8d8b7" opacity="0.2"/><circle cx="395" cy="75" r="5" fill="#e8d8b7" opacity="0.05"/><circle cx="92" cy="136" r="3" fill="#e8d8b7" opacity="0.1"/>
+  <ellipse cx="200" cy="268" rx="170" ry="190" fill="url(#pool-lattafa-najdia)"/>
+  
+  <ellipse cx="200" cy="404" rx="100" ry="10" fill="#000" opacity=".5" filter="url(#soft-lattafa-najdia)"/>
+  <g mask="url(#fm-lattafa-najdia)"><use href="#b-lattafa-najdia" transform="translate(0 800) scale(1 -1)"/></g>
+  
+    <g id="b-lattafa-najdia">
+      <rect x="186" y="160" width="28" height="32" fill="url(#cap-lattafa-najdia)" opacity=".85"/>
+      <path d="M170 162 V122 Q200 78 230 122 V162 Z" fill="url(#cap-lattafa-najdia)"/>
+      <rect x="176" y="102" width="5" height="54" rx="2.5" fill="#fff" opacity=".35"/>
+      <path d="M142 400 V250 C142 206 170 186 200 186 C230 186 258 206 258 250 V400 Q258 400 242 400 H158 Q142 400 142 400 Z" fill="url(#glass-lattafa-najdia)"/>
+      <g clip-path="url(#in-lattafa-najdia)">
+        <rect x="100" y="233.07999999999998" width="200" height="170.92000000000002" fill="url(#liq-lattafa-najdia)"/>
+        <ellipse cx="200" cy="233.07999999999998" rx="90" ry="5" fill="#e6c48a" opacity=".9"/>
+        <rect x="100" y="378" width="200" height="30" fill="#ffffff" opacity=".16"/>
+      </g>
+      <path d="M142 400 V250 C142 206 170 186 200 186 C230 186 258 206 258 250 V400 Q258 400 242 400 H158 Q142 400 142 400 Z" fill="url(#sheen-lattafa-najdia)" />
+      <path d="M142 400 V250 C142 206 170 186 200 186 C230 186 258 206 258 250 V400 Q258 400 242 400 H158 Q142 400 142 400 Z" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.6"/>
+      <rect x="166" y="263" width="68" height="60" fill="none" stroke="#f3dfa6" stroke-width="1.4" opacity=".9"/>
+      <g transform="translate(200 293)" fill="none" stroke="#f3dfa6" stroke-width="1.3" opacity=".95">
+        <rect x="-11" y="-11" width="22" height="22"/><rect x="-11" y="-11" width="22" height="22" transform="rotate(45)"/>
+      </g>
+      <rect x="156" y="194" width="6" height="204" rx="3" fill="#fff" opacity=".38"/>
+      <rect x="236" y="216" width="3" height="144" rx="1.5" fill="#fff" opacity=".2"/>
+    </g>
+</svg>
+  <svg x="250" y="60" width="420" height="525" viewBox="0 0 400 500" overflow="visible">
+  <defs>
+    <radialGradient id="bg-afnan-9pm" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#173a33"/><stop offset="1" stop-color="#07110f"/></radialGradient>
+    <linearGradient id="cap-afnan-9pm" x1="0" x2="1"><stop offset="0" stop-color="#050706"/><stop offset=".35" stop-color="#4a4f4c"/><stop offset=".6" stop-color="#161a18"/><stop offset="1" stop-color="#050706"/></linearGradient>
+    <linearGradient id="glass-afnan-9pm" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".30"/><stop offset=".5" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity=".22"/></linearGradient>
+    <linearGradient id="liq-afnan-9pm" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3a2b73"/><stop offset="1" stop-color="#150d33"/></linearGradient>
+    <linearGradient id="sheen-afnan-9pm" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset=".45" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".22"/></linearGradient>
+    <linearGradient id="fade-afnan-9pm" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset=".6" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <mask id="fm-afnan-9pm"><rect x="0" y="400" width="400" height="100" fill="url(#fade-afnan-9pm)"/></mask>
+    <radialGradient id="pool-afnan-9pm" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#8f7ad6" stop-opacity=".55"/><stop offset="1" stop-color="#8f7ad6" stop-opacity="0"/></radialGradient>
+    <clipPath id="in-afnan-9pm"><path d="M130 232 Q130 214 148 214 H252 Q270 214 270 232 V382 Q270 400 252 400 H148 Q130 400 130 382 Z"/></clipPath>
+    <filter id="soft-afnan-9pm"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+  
+  <circle cx="31" cy="23" r="2" fill="#e8d8b7" opacity="0.05"/><circle cx="128" cy="84" r="9" fill="#e8d8b7" opacity="0.1"/><circle cx="225" cy="145" r="7" fill="#e8d8b7" opacity="0.15000000000000002"/><circle cx="322" cy="206" r="5" fill="#e8d8b7" opacity="0.2"/><circle cx="19" cy="267" r="3" fill="#e8d8b7" opacity="0.05"/><circle cx="116" cy="328" r="10" fill="#e8d8b7" opacity="0.1"/><circle cx="213" cy="49" r="8" fill="#e8d8b7" opacity="0.15000000000000002"/><circle cx="310" cy="110" r="6" fill="#e8d8b7" opacity="0.2"/><circle cx="7" cy="171" r="4" fill="#e8d8b7" opacity="0.05"/><circle cx="104" cy="232" r="2" fill="#e8d8b7" opacity="0.1"/><circle cx="201" cy="293" r="9" fill="#e8d8b7" opacity="0.15000000000000002"/><circle cx="298" cy="14" r="7" fill="#e8d8b7" opacity="0.2"/><circle cx="395" cy="75" r="5" fill="#e8d8b7" opacity="0.05"/><circle cx="92" cy="136" r="3" fill="#e8d8b7" opacity="0.1"/>
+  <ellipse cx="200" cy="268" rx="170" ry="190" fill="url(#pool-afnan-9pm)"/>
+  
+  <ellipse cx="200" cy="404" rx="100" ry="10" fill="#000" opacity=".5" filter="url(#soft-afnan-9pm)"/>
+  <g mask="url(#fm-afnan-9pm)"><use href="#b-afnan-9pm" transform="translate(0 800) scale(1 -1)"/></g>
+  
+    <g id="b-afnan-9pm">
+      <rect x="180" y="190" width="40" height="30" fill="url(#cap-afnan-9pm)" opacity=".85"/>
+      <rect x="166" y="126" width="68" height="66" rx="6" fill="url(#cap-afnan-9pm)"/>
+      <rect x="172" y="132" width="5" height="54" rx="2.5" fill="#fff" opacity=".35"/>
+      <path d="M130 232 Q130 214 148 214 H252 Q270 214 270 232 V382 Q270 400 252 400 H148 Q130 400 130 382 Z" fill="url(#glass-afnan-9pm)"/>
+      <g clip-path="url(#in-afnan-9pm)">
+        <rect x="100" y="254.92" width="200" height="149.08" fill="url(#liq-afnan-9pm)"/>
+        <ellipse cx="200" cy="254.92" rx="90" ry="5" fill="#3a2b73" opacity=".9"/>
+        <rect x="100" y="378" width="200" height="30" fill="#ffffff" opacity=".16"/>
+      </g>
+      <path d="M130 232 Q130 214 148 214 H252 Q270 214 270 232 V382 Q270 400 252 400 H148 Q130 400 130 382 Z" fill="url(#sheen-afnan-9pm)" />
+      <path d="M130 232 Q130 214 148 214 H252 Q270 214 270 232 V382 Q270 400 252 400 H148 Q130 400 130 382 Z" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.6"/>
+      <rect x="166" y="277" width="68" height="60" fill="none" stroke="#4a4f4c" stroke-width="1.4" opacity=".9"/>
+      <g transform="translate(200 307)" fill="none" stroke="#4a4f4c" stroke-width="1.3" opacity=".95">
+        <rect x="-11" y="-11" width="22" height="22"/><rect x="-11" y="-11" width="22" height="22" transform="rotate(45)"/>
+      </g>
+      <rect x="156" y="222" width="6" height="176" rx="3" fill="#fff" opacity=".38"/>
+      <rect x="236" y="244" width="3" height="116" rx="1.5" fill="#fff" opacity=".2"/>
+    </g>
+</svg>
+</svg>
